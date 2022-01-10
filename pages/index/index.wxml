@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+    <view class="btn" bindtap="onTapCreateRadioVote">
+        
+        单选投票
+    </view>
+    <view class="btn">多选投票</view>
+</view>

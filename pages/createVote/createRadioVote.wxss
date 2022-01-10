@@ -1,0 +1,31 @@
+/* pages/createVote/createRadioVote.wxss */
+.container{
+    padding: 30rpx;
+    box-sizing: border-box;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+   
+}
+.form-title{
+    color: #343;
+    font-weight: bold;
+    font-size: 20pt;
+    height: 24pt;
+    padding: 10 rpx 0;
+    box-sizing: content-box;
+
+
+}
+.form-des{
+    color: #343;
+    font-weight: bold;
+    font-size: 20pt;
+    height: 24pt;
+    padding: 10 rpx 0;
+    box-sizing: content-box;
+
+
+}

@@ -1,0 +1,18 @@
+/**index.wxss**/
+.btn{
+    margin: 20rpx;
+    padding: 50rpx;
+    border: 1rpx solid #2b332b;
+    border-radius: 20rpx;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+}
+.btn-image{
+    width: 50 rpx;
+    margin-right: 30rpx;
+}

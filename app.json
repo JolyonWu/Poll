@@ -1,0 +1,18 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/createVote/createRadioVote",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Poll",
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh": true
+    
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+ 
+}

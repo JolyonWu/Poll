@@ -1,0 +1,12 @@
+<!--pages/createVote/createRadioVote.wxml-->
+
+<view class="container">
+    <form bindsubmit="formSubmit" bindreset="formReset">
+        
+        <input value="{{formTitle}}" class="form-title" placeholder="投票标题" focus placeholder-class="form-title-placeholder" bindinput="onTitleInputChange"  />
+
+        <textarea valjue="{{formDes}}" class="form-des" placeholder="备注" focus  auto-height
+        placeholder-class="form-des-placeholder" bindinput="onTitleDesInputChange" />
+        
+    </form>
+</view>>
